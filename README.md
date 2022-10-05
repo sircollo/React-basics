@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-
+This is a basic todo app created with react, covering topics from  creating an app, functional and class-based functions, destructuring, JSX, event handling, setState methods e.t.c
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
