@@ -54,3 +54,8 @@ body{
   outline: none;
   border: none;
 }
+@media(max-width:270px){
+  h1{
+    font-size:3rem !important;
+  }
+}
